@@ -16,5 +16,5 @@ I’m finishing my third year at a technical school in Tallinn, I’m a Fullstac
 ## 🛠 Skills  
 [![](https://skillicons.dev/icons?i=lua,py,js,ts,html,css,cs,cpp,nodejs,sqlite,postgres,mysql,vercel,cloudflare,robloxstudio,windows,linux,raspberrypi,visualstudio,vscode,github,discord)](https://skillicons.dev)
 
-## ❔ What am I most passionate about?
+## ❔ What am I most passionate about
 As a child, and now I am interested in game devs and server maintenance, but game devs have taken a place in my heart, also reverse engineering, sometimes I can make private servers for different games.
