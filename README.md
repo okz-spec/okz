@@ -3,6 +3,7 @@
 ## 🚀 About Me  
 I’m finishing my third year at a technical school in Tallinn, I’m a Fullstacks Developer, I’m very experienced in networking and game development, and I also know how to maintain servers
 
+---
 ![](https://komarev.com/ghpvc/?username=okz-spec)
 [![wakatime](https://wakatime.com/badge/user/ae191a44-f921-47d4-8583-31afa14fc636.svg)](https://wakatime.com/@ae191a44-f921-47d4-8583-31afa14fc636)
 
