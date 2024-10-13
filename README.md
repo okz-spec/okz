@@ -1,3 +1,5 @@
+![](https://github.com/okz-spec/okz/blob/main/okztitle.png?raw=true)
+
 # Hi, I'm Marat! 👋  
                 
 ## 🚀 About Me  
@@ -17,5 +19,3 @@ LUA, C#, C++, little bit JS and Node.JS...
 
 ## ❔ What am I most passionate about?
 As a child, and now I am interested in game devs and server maintenance, but game devs have taken a place in my heart, also reverse engineering, sometimes I can make private servers for different games.
-
-![](https://github.com/okz-spec/okz/blob/main/okztitle.png?raw=true)
