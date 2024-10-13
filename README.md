@@ -14,7 +14,9 @@ I’m finishing my third year at a technical school in Tallinn, I’m a Fullstac
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/okz-spec)  
     
 ## 🛠 Skills  
-LUA, C#, C++, little bit JS and Node.JS...
+<details>
+  [![](https://skillicons.dev/icons?i=lua,py,js,ts,html,css,cs,cpp,nodejs,sqlite,postgres,mysql,vercel,robloxstudio,windows,visualstudio,vscode,github,discord)](https://skillicons.dev)
+</details>
     
 
 ## ❔ What am I most passionate about?
